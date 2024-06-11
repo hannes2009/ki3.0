@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Künstliche Intelligenz</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            color: #333;
+        }
+        header {
+            background: #0066cc;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #0066cc;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        section {
+            background: #f4faff;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        section h2 {
+            color: #004080;
+        }
+        footer {
+            background: #0066cc;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        @media (max-width: 768px) {
+            .container {
+                width: 95%;
+            }
+            nav a {
+                display: block;
+                margin: 10px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Künstliche Intelligenz</h1>
+</header>
+
+<nav>
+    <a href="#einfuhrung">Einführung</a>
+    <a href="#anwendungen">Anwendungen</a>
+    <a href="#vorteile">Vorteile & Herausforderungen</a>
+    <a href="#zukunft">Zukunftsaussichten</a>
+</nav>
+
+<div class="container">
+    <section id="einfuhrung">
+        <h2>Einführung</h2>
+        <p>Künstliche Intelligenz (KI) bezieht sich auf die Fähigkeit von Maschinen, Aufgaben zu erledigen, die normalerweise menschliche Intelligenz erfordern. Dazu gehören Lernprozesse, Problemlösung und Entscheidungsfindung.</p>
+    </section>
+
+    <section id="anwendungen">
+        <h2>Anwendungen</h2>
+        <p>KI findet in vielen Bereichen Anwendung, darunter Gesundheitswesen, Automobilindustrie, Finanzwesen, Bildung und Unterhaltung. Beispielsweise nutzen selbstfahrende Autos KI, um sicher auf den Straßen zu navigieren, und virtuelle Assistenten wie Siri und Alexa verwenden KI, um Sprachbefehle zu verstehen und auszuführen.</p>
+    </section>
+
+    <section id="vorteile">
+        <h2>Vorteile & Herausforderungen</h2>
+        <p>Künstliche Intelligenz bietet viele Vorteile, wie die Automatisierung monotoner Aufgaben, die Verbesserung der Genauigkeit und die Schaffung neuer Möglichkeiten in verschiedenen Industrien. Allerdings gibt es auch Herausforderungen, einschließlich ethischer Bedenken, Arbeitsplatzverluste und Sicherheitsrisiken.</p>
+    </section>
+
+    <section id="zukunft">
+        <h2>Zukunftsaussichten</h2>
+        <p>Die Zukunft der KI ist vielversprechend, mit fortschreitender Forschung und Entwicklung, die neue Anwendungen und Verbesserungen bringen. Es wird erwartet, dass KI weiterhin einen erheblichen Einfluss auf unsere Gesellschaft und Wirtschaft haben wird, indem sie Innovationen vorantreibt und die Effizienz steigert.</p>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 Künstliche Intelligenz Webseite. Alle Rechte vorbehalten.</p>
+</footer>
+
+</body>
+</html>
+ 
